@@ -1,4 +1,4 @@
-# cuentaregresiva
+# Cuenta Regresiva VUE
 
 ## Project setup
 ```
